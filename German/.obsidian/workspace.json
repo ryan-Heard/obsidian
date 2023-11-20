@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "9e409a75d56ac046",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b024a14fb3348dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae85394ce54e9427",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Lage/wohin.md"
+              }
+            }
+          },
+          {
+            "id": "c142903b86be1e3b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b5184c3b7fee039f",
+    "type": "split",
+    "children": [
+      {
+        "id": "53411c3720deaab8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c495df8c2a862c19",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9457bbc65f325fbe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8071fdbf39dfac55",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b1b371f79ca17e50",
+    "type": "split",
+    "children": [
+      {
+        "id": "12e23ed35ba8fc5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b04767baa7cdc443",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lage/wohin.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "396e2328417a599f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lage/wohin.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c8153b52eb51c808",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "28e147b264a15b63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lage/wohin.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "c495df8c2a862c19",
+  "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Lage/wohin.md",
+    "Lage/Wohin.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "computer setup.md",
+    "2023-11-19.md",
+    "Untitled",
+    "Excalidraw",
+    "Lage"
+  ]
+}
