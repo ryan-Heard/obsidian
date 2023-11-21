@@ -13,19 +13,132 @@
             "state": {
               "type": "excalidraw",
               "state": {
+                "file": "Lage/wo.md"
+              }
+            }
+          },
+          {
+            "id": "25042559fa21fb6d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Lage/woher.md"
+              }
+            }
+          },
+          {
+            "id": "4ddf684ac0c86c5f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
                 "file": "Lage/wohin.md"
               }
             }
           },
           {
-            "id": "c142903b86be1e3b",
+            "id": "3adb4bb088922fbc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Lage/woher.md"
+              }
+            }
+          },
+          {
+            "id": "ad0c54ed5d434a18",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Lage/woher.md"
+              }
+            }
+          },
+          {
+            "id": "7f5a1c99806cf946",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Lage/wo.md"
+              }
+            }
+          },
+          {
+            "id": "b725d9ff3696d934",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Lage/wohin.md"
+              }
+            }
+          },
+          {
+            "id": "42cc4f9a08ca4a68",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Lage/wohin.md"
+              }
+            }
+          },
+          {
+            "id": "cfefd5989ea73b8a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Lage/wohin.md"
+              }
+            }
+          },
+          {
+            "id": "ae67a0691b8e5258",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Lage/wohin.md"
+              }
+            }
+          },
+          {
+            "id": "c8d744556ad6778d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Wortschatz/Beruf Sprechen.md"
+              }
+            }
+          },
+          {
+            "id": "a3913a79693f0335",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Kase/Akkusativ.md"
+              }
+            }
+          },
+          {
+            "id": "dbdcd6482ecd89e4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Lage/wo.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -54,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "auftrag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lage/wohin.md",
+                "file": "Kase/Akkusativ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lage/wohin.md",
+                "file": "Kase/Akkusativ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lage/wohin.md"
+                "file": "Kase/Akkusativ.md"
               }
             }
           }
@@ -153,17 +266,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c495df8c2a862c19",
+  "active": "a3913a79693f0335",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
-    "Untitled.canvas",
+    "Wortschatz/Beruf Sprechen.md",
+    "Wortschatz/Sport Machen.md",
+    "Lage/woher.md",
     "Lage/wohin.md",
+    "Lage/wo.md",
+    "Pasted Image 20231120135604_569.png",
+    "Kase/Dativ.md",
+    "Kase/Akkusativ.md",
+    "Wortschatz",
+    "Untitled 1.canvas",
+    "Kase",
+    "Untitled.md",
+    "Untitled.canvas",
     "Lage/Wohin.md",
     "Untitled 1.md",
-    "Untitled.md",
     "computer setup.md",
     "2023-11-19.md",
-    "Untitled",
     "Excalidraw",
     "Lage"
   ]

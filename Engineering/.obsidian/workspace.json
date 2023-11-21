@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "77c527fa2dd9719f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3c01e72b50e7c5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bdd659c0e517d94",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "ffb23ee75c7b7e30",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Events/core.md"
+              }
+            }
+          },
+          {
+            "id": "23afc691bc9beeea",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Events/scaling.md"
+              }
+            }
+          },
+          {
+            "id": "e14c07b5b6d86f8d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Events/batching.md"
+              }
+            }
+          },
+          {
+            "id": "5e35a0151fa1eae2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Events/scaling.md"
+              }
+            }
+          },
+          {
+            "id": "afacffb00404107c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Events/scaling.md"
+              }
+            }
+          },
+          {
+            "id": "5db8f9f449076b2f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Events/scaling.md"
+              }
+            }
+          },
+          {
+            "id": "9eac96c467c6de8c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Events/core.md"
+              }
+            }
+          },
+          {
+            "id": "abeb24a0b332f36b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Events/scaling.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c452e065eb9df43a",
+    "type": "split",
+    "children": [
+      {
+        "id": "49fa9e6f93a33474",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8011135de565477",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b5687a000e81f6df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c707ca713df5dc3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db1f326cd4842282",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d1c138da6290bed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd902fceec0f35a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Events/scaling.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b16dd80a9bf24c2c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Events/scaling.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc40849bb70097bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ee319ef5c922dc9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Events/scaling.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "abeb24a0b332f36b",
+  "lastOpenFiles": [
+    "Events/batching.md",
+    "Events/scaling.md",
+    "Events/core.md",
+    "Events/steams.md",
+    "Untitled.canvas",
+    "Events/Excalidraw",
+    "2023-11-20.md",
+    "Events"
+  ]
+}
