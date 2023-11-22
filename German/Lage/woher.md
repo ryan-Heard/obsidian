@@ -554,8 +554,8 @@ Ich komme vom Strand
 		},
 		{
 			"type": "arrow",
-			"version": 100,
-			"versionNonce": 1425720531,
+			"version": 101,
+			"versionNonce": 566924851,
 			"isDeleted": false,
 			"id": "mZOcc-II0u0DjPdw3qyQi",
 			"fillStyle": "solid",
@@ -577,7 +577,7 @@ Ich komme vom Strand
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700497221114,
+			"updated": 1700579338426,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -602,8 +602,8 @@ Ich komme vom Strand
 		},
 		{
 			"type": "arrow",
-			"version": 201,
-			"versionNonce": 1771090547,
+			"version": 202,
+			"versionNonce": 589256659,
 			"isDeleted": false,
 			"id": "87JlkDRF-d1KHnHZfPM85",
 			"fillStyle": "solid",
@@ -625,7 +625,7 @@ Ich komme vom Strand
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700497221115,
+			"updated": 1700579338426,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -650,8 +650,8 @@ Ich komme vom Strand
 		},
 		{
 			"type": "arrow",
-			"version": 796,
-			"versionNonce": 157483059,
+			"version": 800,
+			"versionNonce": 583933331,
 			"isDeleted": false,
 			"id": "c167v6zivk9KTS0s_SFzA",
 			"fillStyle": "solid",
@@ -660,12 +660,12 @@ Ich komme vom Strand
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 80.20764146790346,
-			"y": -13.537463119846024,
+			"x": 80.20764146790344,
+			"y": -13.53746311984603,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 44.030567855335704,
-			"height": 81.07761163442625,
+			"width": 44.03056785533572,
+			"height": 81.07761163442623,
 			"seed": 1764235357,
 			"groupIds": [],
 			"frameId": null,
@@ -673,7 +673,7 @@ Ich komme vom Strand
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700497221115,
+			"updated": 1700579338426,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -695,15 +695,15 @@ Ich komme vom Strand
 					0
 				],
 				[
-					44.030567855335704,
-					-81.07761163442625
+					44.03056785533572,
+					-81.07761163442623
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 482,
-			"versionNonce": 1986816275,
+			"version": 486,
+			"versionNonce": 1378353779,
 			"isDeleted": false,
 			"id": "vq4r0EEbKW17Wb_gziAua",
 			"fillStyle": "solid",
@@ -725,7 +725,7 @@ Ich komme vom Strand
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700497221115,
+			"updated": 1700579338427,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -904,8 +904,8 @@ Ich komme vom Strand
 		},
 		{
 			"type": "ellipse",
-			"version": 1993,
-			"versionNonce": 1652195955,
+			"version": 1994,
+			"versionNonce": 990630355,
 			"isDeleted": false,
 			"id": "QRF7CtO6pd6eBYX2XBu6k",
 			"fillStyle": "solid",
@@ -914,7 +914,7 @@ Ich komme vom Strand
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 456.84460313021594,
+			"x": 456.844603130216,
 			"y": -74.11512907111194,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#fab005",
@@ -940,7 +940,7 @@ Ich komme vom Strand
 					"type": "arrow"
 				}
 			],
-			"updated": 1700497228915,
+			"updated": 1700579338428,
 			"link": null,
 			"locked": false
 		},
@@ -983,8 +983,8 @@ Ich komme vom Strand
 		},
 		{
 			"type": "arrow",
-			"version": 48,
-			"versionNonce": 270172627,
+			"version": 49,
+			"versionNonce": 2096821043,
 			"isDeleted": false,
 			"id": "l9GeuSTC6GhR90D_o997Y",
 			"fillStyle": "solid",
@@ -1006,7 +1006,7 @@ Ich komme vom Strand
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700497221115,
+			"updated": 1700579338426,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1031,8 +1031,8 @@ Ich komme vom Strand
 		},
 		{
 			"type": "arrow",
-			"version": 254,
-			"versionNonce": 2109916307,
+			"version": 258,
+			"versionNonce": 1081548467,
 			"isDeleted": false,
 			"id": "KFnoUp9LDZWt8gAnSXXJ9",
 			"fillStyle": "solid",
@@ -1041,12 +1041,12 @@ Ich komme vom Strand
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 426.94728542089285,
-			"y": -87.92097256825424,
+			"x": 426.9472898847314,
+			"y": -87.92097656775373,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 53.29976384758862,
-			"height": 41.94870105044074,
+			"width": 53.29976227047473,
+			"height": 41.948702745779784,
 			"seed": 1237520957,
 			"groupIds": [],
 			"frameId": null,
@@ -1054,7 +1054,7 @@ Ich komme vom Strand
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700497221117,
+			"updated": 1700579338429,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1076,15 +1076,15 @@ Ich komme vom Strand
 					0
 				],
 				[
-					53.29976384758862,
-					41.94870105044074
+					53.29976227047473,
+					41.948702745779784
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 93,
-			"versionNonce": 300760787,
+			"version": 97,
+			"versionNonce": 205410355,
 			"isDeleted": false,
 			"id": "Xs9IJfjXRiZRJ5zQEUvt4",
 			"fillStyle": "solid",
@@ -1093,12 +1093,12 @@ Ich komme vom Strand
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 147.14723443429543,
-			"y": 206.56572046874652,
+			"x": 147.14723443330954,
+			"y": 206.5657204713771,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 78.80866725064863,
-			"height": 0.3089636348777276,
+			"width": 78.80866725190285,
+			"height": 0.3089636365193371,
 			"seed": 1997779507,
 			"groupIds": [],
 			"frameId": null,
@@ -1106,7 +1106,7 @@ Ich komme vom Strand
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700497221115,
+			"updated": 1700579338427,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1128,15 +1128,15 @@ Ich komme vom Strand
 					0
 				],
 				[
-					78.80866725064863,
-					-0.3089636348777276
+					78.80866725190285,
+					-0.3089636365193371
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 245,
-			"versionNonce": 1684651347,
+			"version": 246,
+			"versionNonce": 1677205363,
 			"isDeleted": false,
 			"id": "0nmbsP66BVMNGJAmFJDOu",
 			"fillStyle": "solid",
@@ -1158,7 +1158,7 @@ Ich komme vom Strand
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700497221117,
+			"updated": 1700579338429,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1183,8 +1183,8 @@ Ich komme vom Strand
 		},
 		{
 			"type": "text",
-			"version": 44,
-			"versionNonce": 1586260765,
+			"version": 180,
+			"versionNonce": 1025938781,
 			"isDeleted": false,
 			"id": "JNYBJY2t",
 			"fillStyle": "solid",
@@ -1193,8 +1193,8 @@ Ich komme vom Strand
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1144.2988182612607,
-			"y": -180.31640843901403,
+			"x": 580.3665265945942,
+			"y": -320.9153667723474,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 319.50787353515625,
@@ -1204,7 +1204,7 @@ Ich komme vom Strand
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700494885553,
+			"updated": 1700579344247,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1234,8 +1234,8 @@ Ich komme vom Strand
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 411.392227018458,
-		"scrollY": 792.0339006648555,
+		"scrollX": 518.0588936851243,
+		"scrollY": 867.7629493265862,
 		"zoom": {
 			"value": 0.6000000000000001
 		},

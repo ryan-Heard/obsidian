@@ -123,7 +123,29 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Kase/Akkusativ.md"
+                "file": "Kase/Dativ.md"
+              }
+            }
+          },
+          {
+            "id": "22b7a95d3ad7697a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Control Wörten/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cb13dbc7776d4c9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Control Wörten/conjuctions.md"
               }
             }
           },
@@ -138,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -204,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kase/Akkusativ.md",
+                "file": "Control Wörten/conjuctions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kase/Akkusativ.md",
+                "file": "Control Wörten/conjuctions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kase/Akkusativ.md"
+                "file": "Control Wörten/conjuctions.md"
               }
             }
           }
@@ -266,20 +288,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a3913a79693f0335",
+  "active": "c495df8c2a862c19",
   "lastOpenFiles": [
-    "Wortschatz/Beruf Sprechen.md",
+    "Untitled.md",
+    "Control Wörten/conjuctions.md",
+    "Control Wörten/Untitled.md",
+    "Wortschatz/Pasted Image 20231120135604_569.png",
+    "Control Wörten",
     "Wortschatz/Sport Machen.md",
-    "Lage/woher.md",
     "Lage/wohin.md",
-    "Lage/wo.md",
-    "Pasted Image 20231120135604_569.png",
+    "Lage/woher.md",
+    "Wortschatz/Beruf Sprechen.md",
+    "Wortschatz/Schule.md",
     "Kase/Dativ.md",
     "Kase/Akkusativ.md",
+    "Lage/wo.md",
     "Wortschatz",
     "Untitled 1.canvas",
     "Kase",
-    "Untitled.md",
     "Untitled.canvas",
     "Lage/Wohin.md",
     "Untitled 1.md",
